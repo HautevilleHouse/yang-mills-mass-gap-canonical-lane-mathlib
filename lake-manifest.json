@@ -1,0 +1,6 @@
+{"version": "1.2.0",
+ "packagesDir": ".lake/packages",
+ "packages": [],
+ "name": "yang_mills_mass_gap_canonical_lane_lean",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}

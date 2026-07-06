@@ -1,0 +1,7 @@
+-- This module is the root of the YangMillsMassGapCanonicalLaneLean Lean proof package.
+import YangMillsMassGapCanonicalLaneLean.Basic
+import YangMillsMassGapCanonicalLaneLean.SourcePackage
+import YangMillsMassGapCanonicalLaneLean.SourceDependencies
+import YangMillsMassGapCanonicalLaneLean.Formalization
+import YangMillsMassGapCanonicalLaneLean.ReviewerBridge
+import YangMillsMassGapCanonicalLaneLean.TheoremStatement
